@@ -16,5 +16,7 @@ public class Fruits {
         System.out.println("Blueberry ");
 
         System.out.println("Date");
+
+        System.out.println("Grape");
     }
 }
