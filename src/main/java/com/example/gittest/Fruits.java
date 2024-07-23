@@ -17,6 +17,6 @@ public class Fruits {
 
         System.out.println("Date");
 
-        System.out.println("Grape");
+        System.out.println("Lemon");
     }
 }
